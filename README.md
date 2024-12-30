@@ -2,11 +2,10 @@
 
 ## My Github Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitbedse" alt="Github Stats" style="width: 100%; max-width: 500px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse" alt="Github Streak Stats" style="width: 100%; max-width: 500px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse" alt="Top Languages" style="width: 100%; max-width: 500px;" />
-</div>
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=rohitbedse)
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse)
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse)
 
 🎓 **Third-Year Computer Science Student**  
 🐍 **Python Developer** passionate about coding and innovation  
