@@ -1,5 +1,13 @@
 # 👋 Hi, I'm Rohit Bedse
 
+## My Github Stats
+
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=rohitbedse)
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse)
+
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse)
+
 🎓 **Third-Year Computer Science Student**  
 🐍 **Python Developer** passionate about coding and innovation  
 🌱 Exploring **Data Science**, **Machine Learning**, and **Deep Learning**  
