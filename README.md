@@ -2,11 +2,11 @@
 
 ## My Github Stats
 
-![Github Stats 3](https://github-readme-stats.vercel.app/api?username=rohitbedse)
-
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse)
-
-![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitbedse" alt="Github Stats" style="width: 100%; max-width: 500px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse" alt="Github Streak Stats" style="width: 100%; max-width: 500px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse" alt="Top Languages" style="width: 100%; max-width: 500px;" />
+</div>
 
 🎓 **Third-Year Computer Science Student**  
 🐍 **Python Developer** passionate about coding and innovation  
@@ -23,24 +23,7 @@
 
 ### 📫 Connect with Me  
 - **Email**: rbedse81@gmail.com
-- **LinkedIn**: www.linkedin.com/in/rohit-bedse-086b86262
-- **GitHub**: https://github.com/rohitbedse
+- **LinkedIn**: [Rohit Bedse](https://www.linkedin.com/in/rohit-bedse-086b86262)
+- **GitHub**: [rohitbedse](https://github.com/rohitbedse)
 
 Let's collaborate on something amazing!
-
-
-
-<!--
-**rohitbedse/rohitbedse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
