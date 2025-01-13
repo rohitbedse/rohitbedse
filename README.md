@@ -1,4 +1,9 @@
-# 👋 Hello, I'm **Rohit Bedse**
+# 👋 Hi, I'm **Rohit Bedse**!
+
+### 🚀 I'm a Python Developer and a Data Science Enthusiast
+I am passionate about developing solutions using **Machine Learning**, **Deep Learning**, and **Data Science**. I'm always striving to improve my coding skills and contribute to open-source projects.
+
+---
 
 ## My Github Stats
 
