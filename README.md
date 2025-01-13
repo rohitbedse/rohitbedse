@@ -1,10 +1,12 @@
 # 👋 Hello, I'm **Rohit Bedse**
 
-## 🌟 GitHub Stats
+## My Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitbedse)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse)
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=rohitbedse)
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse)
+
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse)
 
 ---
 
