@@ -1,29 +1,37 @@
-# 👋 Hi, I'm Rohit Bedse
+# 👋 Hello, I'm **Rohit Bedse**
 
-## My Github Stats
+## 🌟 GitHub Stats
 
-![Github Stats 3](https://github-readme-stats.vercel.app/api?username=rohitbedse)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitbedse)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse)
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse)
+---
 
-![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse)
+🎓 **Third-Year Computer Science Engineering Student**  
+🐍 **Python Developer** with a focus on building innovative, scalable software solutions  
+🌱 Currently exploring the realms of **Data Science**, **Machine Learning**, and **Deep Learning**  
 
-🎓 **Third-Year Computer Science Student**  
-🐍 **Python Developer** passionate about coding and innovation  
-🌱 Exploring **Data Science**, **Machine Learning**, and **Deep Learning**  
+---
 
-### 👨‍💻 What I'm Currently Working On  
-- Enhancing my Python skills 
-- Building projects in AI and ML  
+## 💻 What I’m Currently Focused On
+- **Sharpening my Python skills** through various personal and collaborative projects.
+- Creating **AI & ML models** to solve real-world challenges and refine my expertise in data-driven solutions.
 
-### 💡 Interests  
-- Developing efficient algorithms  
-- Working on impactful data-driven projects  
-- Exploring emerging technologies in AI  
+---
 
-### 📫 Connect with Me  
-- **Email**: rbedse81@gmail.com
+## 🔧 Areas I’m Passionate About
+- **Algorithm Design & Optimization**: Crafting efficient algorithms for faster, more scalable solutions.
+- **Data Science & Analytics**: Transforming complex datasets into actionable insights using statistical analysis and machine learning.
+- **Artificial Intelligence**: Exploring the frontiers of AI, from deep learning to reinforcement learning.
+
+---
+
+## 📬 Let's Connect
+- **Email**: [rbedse81@gmail.com](mailto:rbedse81@gmail.com)
 - **LinkedIn**: [Rohit Bedse](https://www.linkedin.com/in/rohit-bedse-086b86262)
 - **GitHub**: [rohitbedse](https://github.com/rohitbedse)
 
-Let's collaborate on something amazing!
+---
+
+Feel free to reach out if you’re interested in collaborating on cutting-edge projects or simply want to connect over tech! 🚀
