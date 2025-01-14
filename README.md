@@ -7,11 +7,11 @@ I am passionate about developing solutions using **Machine Learning**, **Deep Le
 
 ## My Github Stats
 
-![Github Stats 3](https://github-readme-stats.vercel.app/api?username=rohitbedse)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitbedse)
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse)
 
-![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse)
 
 ---
 
