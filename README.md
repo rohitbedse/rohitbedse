@@ -43,4 +43,13 @@ I am passionate about developing solutions using **Machine Learning**, **Deep Le
 
 ---
 
+<div align="center">
+
+  
+ ![snake gif](https://github.com/rohitbedse/rohitbedse/blob/output/github-snake-dark.svg)
+  
+</div>
+
 Feel free to reach out if you'd like to collaborate on exciting projects, or simply connect over tech! Let's build something amazing together. 🚀
+
+
