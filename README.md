@@ -1,13 +1,4 @@
-<!-- Banner Image (optional - replace with your own image URL) -->
-<p align="center">
-  <img src="https://your-banner-image-link.com" alt="Rohit's Banner"/>
-</p>
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=c8a4ea&height=190&section=header&text=Rohit%20Bedse&fontColor=236FD7&fontAlignX=45&fontAlignY=65&fontSize=80&animation=twinkling)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitbedse&color=blue"/>
-</p>
 
 <h3 align="center"> 👋 Hello, I'm Rohit! 👋 </h3>
 <p align="center">
@@ -20,23 +11,23 @@ Always striving to build, optimize, and innovate! ✨
 
 <h3 align="center">📚 My Tech Stack 📚</h3>
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-blue"/></a>&nbsp;
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-150458"/></a>&nbsp;
-  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-013243"/></a>&nbsp;
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-Scikit_Learn-F7931E"/></a>&nbsp;
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00"/></a>&nbsp;
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Pandas-150458"/>&nbsp;
+  <img src="https://img.shields.io/badge/-NumPy-013243"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E"/>&nbsp;
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00"/>&nbsp;
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C"/>&nbsp;
   <br>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1"/></a>&nbsp;
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791"/></a>&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-4FAA40"/></a>&nbsp;
-  <a href="https://www.w3schools.com/sql/"><img src="https://img.shields.io/badge/-SQL-4479A1"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/-SQL-4479A1"/>&nbsp;
+  <img src="https://img.shields.io/badge/-MongoDB-4FAA40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791"/>&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-4479A1"/>&nbsp;
   <br>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-FastAPI-009688"/></a>&nbsp;
-  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/-Flask-000000"/></a>&nbsp;
-  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B"/></a>&nbsp;
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED"/></a>&nbsp;
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/-FastAPI-009688"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Flask-000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-2496ED"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Git-F05032"/>&nbsp;
 </p>
 
 ---
@@ -44,7 +35,7 @@ Always striving to build, optimize, and innovate! ✨
 <h3 align="center">🎓 About Me</h3>
 <ul>
   <li>🎓 Third-Year Computer Science Engineering Student</li>
-  <li>💡 Passionate about Machine Learning, Data Science, and AI-driven applications</li>
+  <li>💡  Passionate about Machine Learning, Data Science, and AI-driven applications</li>
   <li>📊 Love working with data analytics, predictive modeling, and NLP</li>
   <li>⚡ Exploring LLMs and AI-powered document generation</li>
 </ul>
@@ -53,18 +44,9 @@ Always striving to build, optimize, and innovate! ✨
 
 <h3 align="center">💻 Current Projects</h3>
 <ul>
-  <li>🚀 <a href="https://github.com/rohitbedse/LLM-contract-drafter">Fine-tuning LLMs for contract drafting and legal case analysis</a></li>
-  <li>🔬 <a href="https://github.com/rohitbedse/AI-chat-with-PDFs">AI-powered chat with PDFs using Next.js & Pinecone</a></li>
-  <li>📚 <a href="https://github.com/rohitbedse/AI-course-builder">AI-driven educational tools to create dynamic course outlines</a></li>
-</ul>
-
----
-
-<h3 align="center">🔍 Currently Exploring</h3>
-<ul>
-  <li>🧠 LangChain & Multi-Agent AI Systems</li>
-  <li>📦 Dockerized deployment of ML models with FastAPI</li>
-  <li>💬 RAG pipelines using Vector DBs</li>
+  <li>🚀 Fine-tuning LLMs for contract drafting and legal case analysis</li>
+  <li>🔬 Working on AI-powered chat with PDFs using Next.js & Pinecone</li>
+  <li>📚 Developing AI-driven educational tools to create dynamic course outlines</li>
 </ul>
 
 ---
