@@ -7,7 +7,7 @@ I enjoy discussing tech, open learning, finance, and anything that uplifts commu
 - 📄 Resume: [<b>View Rohit Bedse's Resume</b>](https://portfolio-demo-seven-lyart.vercel.app/)
 - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/rohit-bedse-086b86262)
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 🌱 What I'm Passionate About
 
@@ -15,7 +15,7 @@ I enjoy discussing tech, open learning, finance, and anything that uplifts commu
 - **Accessible AI:** Exploring how data and machine learning can improve healthcare, education, and other high-impact sectors.
 - **Community Growth:** Supporting other learners through sharing insights, resources, and collaboration.
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 🚀 Currently Exploring
 
@@ -24,7 +24,7 @@ I enjoy discussing tech, open learning, finance, and anything that uplifts commu
 - 📚 Foundations of Statistics  
 - 🤖 Machine Learning (scikit-learn basics)
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 💡 Goals Ahead
 
@@ -33,7 +33,7 @@ I enjoy discussing tech, open learning, finance, and anything that uplifts commu
 - 🔄 Start participating in Kaggle challenges  
 - 🔄 Learn model deployment using Flask/Gradio
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div>
  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse&theme=prussian&hide_border=false"/>
