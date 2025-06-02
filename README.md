@@ -1,79 +1,47 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=c8a4ea&height=190&section=header&text=Rohit%20Bedse&fontColor=236FD7&fontAlignX=45&fontAlignY=65&fontSize=80&animation=twinkling)
+<h1>Hi there, I'm <a href="https://portfolio-demo-seven-lyart.vercel.app/">Rohit Bedse</a> 👋</h1>
 
-<h3 align="center"> 👋 Hello, I'm Rohit! 👋 </h3>
-<p align="center">
-🚀 Python Developer | Data Science Enthusiast | Machine Learning Practitioner <br>
-I love solving problems using Data Science, Machine Learning, and Deep Learning!<br>
-Always striving to build, optimize, and innovate! ✨
-</p>
+I’m a Computer Engineering student with a deep curiosity for Artificial Intelligence and Machine Learning. I’m currently focused on building a strong foundation in Python, NumPy, pandas, data visualization, and statistical concepts as I transition into core machine learning. My approach is to thoroughly understand fundamentals before diving into advanced AI applications, enabling me to solve real-world problems with clarity and confidence.
 
----
+I enjoy discussing tech, open learning, finance, and anything that uplifts communities. If you're building something impactful or want to collaborate on ideas, feel free to connect — I’m always open to learning and contributing!
 
-<h3 align="center">📚 My Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Pandas-150458"/>&nbsp;
-  <img src="https://img.shields.io/badge/-NumPy-013243"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E"/>&nbsp;
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00"/>&nbsp;
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C"/>&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/-SQL-4479A1"/>&nbsp;
-  <img src="https://img.shields.io/badge/-MongoDB-4FAA40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791"/>&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-4479A1"/>&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/-FastAPI-009688"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Flask-000000"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-2496ED"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Git-F05032"/>&nbsp;
-</p>
+- 📄 Resume: [<b>View Rohit Bedse's Resume</b>](https://portfolio-demo-seven-lyart.vercel.app/)
+- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/rohit-bedse-086b86262)
 
 ---
 
-<h3 align="center">🎓 About Me</h3>
-<ul>
-  <li>🎓 Third-Year Computer Science Engineering Student</li>
-  <li>💡  Passionate about Machine Learning, Data Science, and AI-driven applications</li>
-  <li>📊 Love working with data analytics, predictive modeling, and NLP</li>
-  <li>⚡ Exploring LLMs and AI-powered document generation</li>
-</ul>
+### 🌱 What I'm Passionate About
+
+- **Learning by Building:** Gaining real-world exposure through structured projects and consistent hands-on practice.
+- **Accessible AI:** Exploring how data and machine learning can improve healthcare, education, and other high-impact sectors.
+- **Community Growth:** Supporting other learners through sharing insights, resources, and collaboration.
 
 ---
 
-<h3 align="center">💻 Current Projects</h3>
-<ul>
-  <li>🚀 Fine-tuning LLMs for contract drafting and legal case analysis</li>
-  <li>🔬 Working on AI-powered chat with PDFs using Next.js & Pinecone</li>
-  <li>📚 Developing AI-driven educational tools to create dynamic course outlines</li>
-</ul>
+### 🚀 Currently Exploring
+
+- 📊 Python for Data Analysis  
+- 📈 Data Visualization with Matplotlib & Seaborn  
+- 📚 Foundations of Statistics  
+- 🤖 Machine Learning (scikit-learn basics)
 
 ---
 
-<h3 align="center">📬 Let's Connect</h3>
-<p align="center">
-  <a href="mailto:rbedse81@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/rohit-bedse-086b86262"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/rohitbedse"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-</p>
+### 💡 Goals Ahead
+
+- ✅ Complete foundational ML projects  
+- ✅ Contribute to open-source AI tools  
+- 🔄 Start participating in Kaggle challenges  
+- 🔄 Learn model deployment using Flask/Gradio
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitbedse&show_icons=true&hide_border=true&theme=aura"/>
-</p>
+<div>
+ <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse&theme=prussian&hide_border=false"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rohitbedse&theme=prussian&show_icons=true&hide_border=false&count_private=true"/>
+</div><br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse&theme=shades-of-purple"/>
-</p>
+<!-- Readme Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbedse&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbedse&layout=compact&hide_border=true&theme=jolly"/>
-</p>
-
----
-
-<p align="center">
-  🚀 Let's build something amazing together! 🚀
-</p>
+<!-- Profile Visitors Count -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rohitbedse&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbedse" /></p>
