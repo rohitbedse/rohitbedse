@@ -4,7 +4,7 @@ I’m a Computer Engineering student with a deep curiosity for Artificial Intell
 
 I enjoy discussing tech, open learning, finance, and anything that uplifts communities. If you're building something impactful or want to collaborate on ideas, feel free to connect — I’m always open to learning and contributing!
 
-- 📄 Resume: [Download Rohit Bedse's Resume](https://raw.githubusercontent.com/rohitbedse/rohitbedse/main/rohit_bedse1.pdf)
+- 📄 Resume: [Download Rohit Bedse's Resume](https://raw.githubusercontent.com/rohitbedse/rohitbedse/main/rohit_bedse1.docx)
 - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/rohit-bedse-086b86262)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
