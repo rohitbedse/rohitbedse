@@ -1,50 +1,103 @@
-<h1>Hi there, I'm <a href="https://portfolio-demo-seven-lyart.vercel.app/">Rohit Bedse</a> 👋</h1>
+<h1 align="center">
+  Hi, I'm <a href="https://portfolio-demo-seven-lyart.vercel.app/">Rohit Bedse</a> 👋
+</h1>
 
-I’m a **final-year Computer Engineering student** passionate about **Data Science, Machine Learning, and AI**. I enjoy **learning by building** and have hands-on experience in **Python, pandas, NumPy, scikit-learn**, and creating interactive projects with **Flask, Streamlit, and GitHub**.  
+<h3 align="center">
+Final-year Computer Engineering Student | Data Science & Machine Learning
+</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<p align="center">
+I build <b>practical, data-driven systems</b> with a focus on <b>real-world behavior, honest ML evaluation, and clean engineering</b>.
+</p>
 
-My projects reflect my journey as a fresher exploring **real-world applications of data and AI**:  
-💡 **Intelligent PDF QA System** – extracting insights and answering queries from PDFs.  
-📊 **Placement Prediction App** – ML model predicting student outcomes (Python + Flask).  
-🧠 **Generative AI Experiments** – exploring text generation and AI workflows.  
-📈 **EDA & Visualization Projects** – uncovering insights from real-world datasets.  
-💬 **NLP & Spam Detection Models** – text classification and sentiment analysis.  
-🔍 **Recommendation & Forecast Experiments** – building data-driven predictive models.  
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+## 🧠 What I Work On
+- End-to-end ML projects (data → model → API → UI)
+- NLP & sentiment analysis with realistic expectations
+- Data analysis focused on **signal over noise**
+- Learning by building, breaking, and fixing
 
-I’m currently **exploring more ML projects, building foundational AI applications, and improving my analytical skills**. I’m also learning to deploy small ML apps and contribute to open-source AI tools.  
+---
 
-I love **discussing tech, AI, finance, and supporting learning communities**. If you’re working on something impactful or want to collaborate, I’d love to connect!  
+## 🚀 Highlight Projects
 
-- 📄 Resume: [Download Rohit Bedse's Resume](https://raw.githubusercontent.com/rohitbedse/rohitbedse/main/rohit_bedse1.docx)  
-- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/rohit-bedse-086b86262)  
+💬 **Comment Analyzer (YouTube NLP Extension)**  
+Real-time analysis of YouTube comments with sentiment distribution and charts.  
+Designed to reflect the reality that **most comments are neutral or low-signal**.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+📄 **Intelligent PDF Question Answering System**  
+Extracts insights and answers user queries from PDFs using NLP pipelines.
 
-### 🌱 Currently Learning & Exploring
-- Python for Data Analysis  
-- Data Visualization (Matplotlib & Seaborn)  
-- Foundations of Statistics  
-- Machine Learning (scikit-learn, regression, classification)  
-- Basics of Generative AI & NLP  
+📊 **Placement Prediction Web App**  
+End-to-end ML system (Python + Flask) predicting student outcomes.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+🧠 **Generative AI Experiments**  
+Exploring prompting, text generation, and AI workflows.
 
-### 💡 Goals Ahead
-- ✅ Complete foundational ML & AI projects  
-- ✅ Contribute to open-source AI projects  
-- 🔄 Participate in Kaggle competitions  
-- 🔄 Deploy ML apps via Flask/Streamlit  
+📈 **EDA & Visualization Projects**  
+Feature engineering, data cleaning, and insight-driven analysis.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+🔍 **Spam Detection & Text Classification**  
+Practical NLP models with preprocessing and evaluation.
 
-<div>
- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse&theme=prussian&hide_border=false"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rohitbedse&theme=prussian&show_icons=true&hide_border=false&count_private=true"/>
-</div><br>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbedse&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+## 🛠️ Tech Stack
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rohitbedse&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbedse" /></p>
+**Languages & Libraries**  
+Python, pandas, NumPy, scikit-learn  
+
+**ML & NLP**  
+Regression, Classification, Sentiment Analysis, Feature Engineering  
+
+**Backend & Deployment**  
+Flask, Streamlit, REST APIs  
+
+**Tools**  
+Git, GitHub, Docker (basic), DVC, Jupyter
+
+---
+
+## 📚 Currently Learning
+- Statistics for Machine Learning
+- Core ML algorithms (intuition → implementation)
+- NLP foundations
+- Deploying ML systems
+
+---
+
+## 🎯 Goals
+- Build 2–3 production-quality ML projects
+- Strengthen fundamentals through revision & practice
+- Participate in Kaggle with learning intent
+- Contribute to open-source ML/NLP projects
+
+---
+
+## 🤝 Connect With Me
+- 📄 Resume:  
+  https://raw.githubusercontent.com/rohitbedse/rohitbedse/main/rohit_bedse1.docx
+- 🔗 LinkedIn:  
+  https://www.linkedin.com/in/rohit-bedse-086b86262
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohitbedse&show_icons=true&theme=prussian&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse&theme=prussian" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbedse&theme=react-dark&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitbedse&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center"><i>Less noise. More signal.</i></p>
