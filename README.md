@@ -3,75 +3,68 @@
 </h1>
 
 <h3 align="center">
-Final-year Computer Engineering Student | Data Science & Machine Learning
+Final-year Computer Engineering Student | Aspiring Data Scientist / ML Engineer
 </h3>
 
 <p align="center">
-I build <b>practical, data-driven systems</b> with a focus on <b>real-world behavior, honest ML evaluation, and clean engineering</b>.
+I build <b>practical machine learning projects</b> by applying data analysis, NLP, and core ML concepts to real-world problems.
 </p>
 
 ---
 
 ## 🧠 What I Work On
-- End-to-end ML projects (data → model → API → UI)
-- NLP & sentiment analysis with realistic expectations
-- Data analysis focused on **signal over noise**
-- Learning by building, breaking, and fixing
+- End-to-end ML projects (data preprocessing → modeling → basic deployment)
+- NLP projects like sentiment analysis and text classification
+- Exploratory Data Analysis with a focus on meaningful insights
+- Learning ML fundamentals by implementing and experimenting
 
 ---
 
 ## 🚀 Highlight Projects
 
-💬 **Comment Analyzer (YouTube NLP Extension)**  
-Real-time analysis of YouTube comments with sentiment distribution and charts.  
-Designed to reflect the reality that **most comments are neutral or low-signal**.
+💬 <b>Comment Analyzer (YouTube NLP System)</b>  
+Chrome extension + backend pipeline to analyze YouTube comments, classify sentiment, and visualize audience response.
 
-📄 **Intelligent PDF Question Answering System**  
-Extracts insights and answers user queries from PDFs using NLP pipelines.
+🎬 <b>Content-Based Movie Recommendation System</b>  
+Built using TF-IDF and cosine similarity to recommend similar movies based on textual metadata.
 
-📊 **Placement Prediction Web App**  
-End-to-end ML system (Python + Flask) predicting student outcomes.
+📊 <b>Exploratory Data Analysis Projects</b>  
+Performed EDA on real datasets to understand feature relationships, trends, and data quality issues.
 
-🧠 **Generative AI Experiments**  
-Exploring prompting, text generation, and AI workflows.
-
-📈 **EDA & Visualization Projects**  
-Feature engineering, data cleaning, and insight-driven analysis.
-
-🔍 **Spam Detection & Text Classification**  
-Practical NLP models with preprocessing and evaluation.
+🧠 <b>ML & NLP Practice Projects</b>  
+Spam detection, sentiment analysis, regression models, and feature engineering experiments.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Libraries**  
+<b>Languages & Libraries</b>  
 Python, pandas, NumPy, scikit-learn  
 
-**ML & NLP**  
-Regression, Classification, Sentiment Analysis, Feature Engineering  
+<b>Machine Learning</b>  
+Regression, Classification, TF-IDF, Cosine Similarity, Model Evaluation  
 
-**Backend & Deployment**  
-Flask, Streamlit, REST APIs  
+<b>NLP</b>  
+Text preprocessing, Sentiment Analysis, Feature extraction  
 
-**Tools**  
-Git, GitHub, Docker (basic), DVC, Jupyter
+<b>Backend & Tools</b>  
+Flask (basic), Streamlit, Git, GitHub, Jupyter Notebook
 
 ---
 
 ## 📚 Currently Learning
-- Statistics for Machine Learning
-- Core ML algorithms (intuition → implementation)
-- NLP foundations
-- Deploying ML systems
+- Statistics & probability for machine learning
+- Core ML algorithms with intuition
+- NLP fundamentals
+- Improving project structure and deployment basics
 
 ---
 
 ## 🎯 Goals
-- Build 2–3 production-quality ML projects
-- Strengthen fundamentals through revision & practice
-- Participate in Kaggle with learning intent
-- Contribute to open-source ML/NLP projects
+- Build strong ML fundamentals
+- Convert projects into internship-ready work
+- Improve problem-solving through practice
+- Learn from feedback and real-world datasets
 
 ---
 
@@ -83,21 +76,4 @@ Git, GitHub, Docker (basic), DVC, Jupyter
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohitbedse&show_icons=true&theme=prussian&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbedse&theme=prussian" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbedse&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitbedse&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-<p align="center"><i>Less noise. More signal.</i></p>
+<p align="center"><i>Focused on learning, building, and improving.</i></p>
