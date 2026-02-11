@@ -1,79 +1,119 @@
 <h1 align="center">
-  Hi, I'm <a href="https://portfolio-demo-seven-lyart.vercel.app/">Rohit Bedse</a> 👋
+  Hi, I'm <a href="https://portfolio-demo-seven-lyart.vercel.app/">Rohit Bedse</a>
 </h1>
 
 <h3 align="center">
-Final-year Computer Engineering Student | Aspiring Data Scientist / ML Engineer
+Machine Learning & NLP Focused Computer Engineering Student
 </h3>
 
 <p align="center">
-I build <b>practical machine learning projects</b> by applying data analysis, NLP, and core ML concepts to real-world problems.
+I design and implement end-to-end machine learning systems — from data preprocessing and feature engineering to modeling, evaluation, and basic deployment.
 </p>
 
 ---
 
-## 🧠 What I Work On
-- End-to-end ML projects (data preprocessing → modeling → basic deployment)
-- NLP projects like sentiment analysis and text classification
-- Exploratory Data Analysis with a focus on meaningful insights
-- Learning ML fundamentals by implementing and experimenting
+## 🚀 Core Focus
+
+- Building end-to-end ML pipelines  
+- Designing NLP systems for real-world text data  
+- Applying statistical thinking to model development  
+- Writing modular, structured, production-oriented code  
 
 ---
 
-## 🚀 Highlight Projects
+## 🧠 Featured Projects
 
-💬 <b>Comment Analyzer (YouTube NLP System)</b>  
-Chrome extension + backend pipeline to analyze YouTube comments, classify sentiment, and visualize audience response.
+### 💬 YouTube Comment Analyzer (NLP System)
+Chrome Extension + Backend ML Pipeline
 
-🎬 <b>Content-Based Movie Recommendation System</b>  
-Built using TF-IDF and cosine similarity to recommend similar movies based on textual metadata.
+- Built a real-time comment analysis system for YouTube  
+- Designed preprocessing pipeline for multilingual input  
+- Implemented sentiment classification (Positive / Neutral / Negative)  
+- Created visualization layer for audience sentiment insights  
+- Integrated frontend extension with backend API  
 
-📊 <b>Exploratory Data Analysis Projects</b>  
-Performed EDA on real datasets to understand feature relationships, trends, and data quality issues.
-
-🧠 <b>ML & NLP Practice Projects</b>  
-Spam detection, sentiment analysis, regression models, and feature engineering experiments.
+**Tech:** Python, scikit-learn, NLP, Flask, JavaScript  
 
 ---
 
-## 🛠️ Tech Stack
+### 🛒 Amazon ML Challenge – Multi-Modal Price Prediction
+Text + Image Based ML System
 
-<b>Languages & Libraries</b>  
+- Built a multi-modal pipeline combining textual and image features  
+- Extracted text features using TF-IDF and embeddings  
+- Processed image data for feature extraction  
+- Trained regression models for price prediction  
+- Evaluated model performance using appropriate regression metrics  
+
+**Tech:** Python, scikit-learn, NLP, Computer Vision basics  
+
+---
+
+### 🎬 Content-Based Movie Recommendation System
+
+- Designed a recommendation engine using TF-IDF + cosine similarity  
+- Processed movie metadata (overview, genres, tagline)  
+- Generated similarity matrix for content-based filtering  
+- Built a reusable recommendation function  
+
+**Tech:** Python, pandas, scikit-learn  
+
+---
+
+### 📊 Exploratory Data Analysis Projects
+
+- Performed EDA on real-world datasets (insurance, startup funding, etc.)  
+- Identified feature relationships and data quality issues  
+- Applied visualization techniques to derive actionable insights  
+
+**Tech:** pandas, NumPy, Matplotlib / Plotly  
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages & Libraries
 Python, pandas, NumPy, scikit-learn  
 
-<b>Machine Learning</b>  
-Regression, Classification, TF-IDF, Cosine Similarity, Model Evaluation  
+### Machine Learning
+Regression, Classification, Model Evaluation, Feature Engineering  
 
-<b>NLP</b>  
-Text preprocessing, Sentiment Analysis, Feature extraction  
+### NLP
+Text preprocessing, TF-IDF, Sentiment Analysis, Similarity Systems  
 
-<b>Backend & Tools</b>  
-Flask (basic), Streamlit, Git, GitHub, Jupyter Notebook
-
----
-
-## 📚 Currently Learning
-- Statistics & probability for machine learning
-- Core ML algorithms with intuition
-- NLP fundamentals
-- Improving project structure and deployment basics
+### Tools & Backend
+Flask, Streamlit, Git, GitHub, Jupyter Notebook  
 
 ---
 
-## 🎯 Goals
-- Build strong ML fundamentals
-- Convert projects into internship-ready work
-- Improve problem-solving through practice
-- Learn from feedback and real-world datasets
+## 🏗️ Engineering Approach
+
+- Focus on understanding algorithms beyond surface-level usage  
+- Emphasis on clean project structure and reproducibility  
+- Implement concepts from scratch to build intuition  
+- Continuously improving deployment and system design skills  
 
 ---
 
-## 🤝 Connect With Me
-- 📄 Resume:  
-  https://raw.githubusercontent.com/rohitbedse/rohitbedse/main/rohit_bedse1.docx
-- 🔗 LinkedIn:  
-  https://www.linkedin.com/in/rohit-bedse-086b86262
+## 📌 Currently Expanding Into
+
+- Retrieval-Augmented Generation (RAG) systems  
+- FastAPI-based ML model deployment  
+- LLM workflows and structured outputs  
+- Improving mathematical depth behind ML algorithms  
 
 ---
 
-<p align="center"><i>Focused on learning, building, and improving.</i></p>
+## 🎯 Objective
+
+To contribute to impactful machine learning projects where I can apply strong fundamentals, structured thinking, and practical implementation skills.
+
+---
+
+## 🤝 Connect
+
+📄 Resume  
+https://raw.githubusercontent.com/rohitbedse/rohitbedse/main/rohit_bedse1.docx  
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/rohit-bedse-086b86262
