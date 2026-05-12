@@ -1,119 +1,129 @@
-<h1 align="center">
-  Hi, I'm <a href="https://portfolio-demo-seven-lyart.vercel.app/">Rohit Bedse</a>
-</h1>
+<div align="center">
 
-<h3 align="center">
-Machine Learning & NLP Focused Computer Engineering Student
-</h3>
+```
+╔═══════════════════════════════════════╗
+║   hey, i'm rohit bedse 👋             ║
+║   i turn data into decisions          ║
+╚═══════════════════════════════════════╝
+```
 
-<p align="center">
-I design and implement end-to-end machine learning systems — from data preprocessing and feature engineering to modeling, evaluation, and basic deployment.
-</p>
+**ML engineer in the making · NLP nerd · building with LLMs before it was cool**
 
----
+[![Portfolio](https://img.shields.io/badge/portfolio-live-black?style=flat-square)](https://portfolio-demo-seven-lyart.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohit-bedse-086b86262)
+[![Resume](https://img.shields.io/badge/resume-download-green?style=flat-square)](https://raw.githubusercontent.com/rohitbedse/rohitbedse/main/rohit_bedse1.docx)
 
-## 🚀 Core Focus
-
-- Building end-to-end ML pipelines  
-- Designing NLP systems for real-world text data  
-- Applying statistical thinking to model development  
-- Writing modular, structured, production-oriented code  
+</div>
 
 ---
 
-## 🧠 Featured Projects
+### 🧠 what i actually do
 
-### 💬 YouTube Comment Analyzer (NLP System)
-Chrome Extension + Backend ML Pipeline
+> build end-to-end ML systems. not just notebooks — real pipelines, real deployment, real results.
 
-- Built a real-time comment analysis system for YouTube  
-- Designed preprocessing pipeline for multilingual input  
-- Implemented sentiment classification (Positive / Neutral / Negative)  
-- Created visualization layer for audience sentiment insights  
-- Integrated frontend extension with backend API  
-
-**Tech:** Python, scikit-learn, NLP, Flask, JavaScript  
+from messy raw text → preprocessing → modeling → evaluation → shipping.  
+currently deep in the LLM + agents rabbit hole and not coming out anytime soon.
 
 ---
 
-### 🛒 Amazon ML Challenge – Multi-Modal Price Prediction
-Text + Image Based ML System
+### ⚡ tech stack
 
-- Built a multi-modal pipeline combining textual and image features  
-- Extracted text features using TF-IDF and embeddings  
-- Processed image data for feature extraction  
-- Trained regression models for price prediction  
-- Evaluated model performance using appropriate regression metrics  
+**the classics**
+```
+python  |  pandas  |  numpy  |  scikit-learn  |  jupyter
+```
 
-**Tech:** Python, scikit-learn, NLP, Computer Vision basics  
+**ML that hits**
+```
+LightGBM  |  XGBoost  |  Random Forest  |  Logistic Regression
+TF-IDF (1–3 grams)  |  feature engineering  |  model evaluation
+```
 
----
+**NLP + transformers**
+```
+BERT  |  Hugging Face  |  text preprocessing
+sentiment analysis  |  similarity systems  |  fine-tuning
+```
 
-### 🎬 Content-Based Movie Recommendation System
+**the new wave 🔥**
+```
+LangChain  |  LangGraph  |  LlamaIndex
+AI Agents  |  RAG pipelines  |  prompt engineering
+structured outputs  |  tool calling
+```
 
-- Designed a recommendation engine using TF-IDF + cosine similarity  
-- Processed movie metadata (overview, genres, tagline)  
-- Generated similarity matrix for content-based filtering  
-- Built a reusable recommendation function  
-
-**Tech:** Python, pandas, scikit-learn  
-
----
-
-### 📊 Exploratory Data Analysis Projects
-
-- Performed EDA on real-world datasets (insurance, startup funding, etc.)  
-- Identified feature relationships and data quality issues  
-- Applied visualization techniques to derive actionable insights  
-
-**Tech:** pandas, NumPy, Matplotlib / Plotly  
-
----
-
-## 🛠️ Technical Skills
-
-### Languages & Libraries
-Python, pandas, NumPy, scikit-learn  
-
-### Machine Learning
-Regression, Classification, Model Evaluation, Feature Engineering  
-
-### NLP
-Text preprocessing, TF-IDF, Sentiment Analysis, Similarity Systems  
-
-### Tools & Backend
-Flask, Streamlit, Git, GitHub, Jupyter Notebook  
+**ship it**
+```
+Flask  |  FastAPI  |  Streamlit  |  Git  |  GitHub
+```
 
 ---
 
-## 🏗️ Engineering Approach
+### 🚀 projects i actually built
 
-- Focus on understanding algorithms beyond surface-level usage  
-- Emphasis on clean project structure and reproducibility  
-- Implement concepts from scratch to build intuition  
-- Continuously improving deployment and system design skills  
+<details>
+<summary><b>💬 YouTube Comment Analyzer</b> — chrome extension + flask backend</summary>
+
+> real-time sentiment analysis on yt comments. multilingual input. positive / neutral / negative classification. visualization layer. the whole thing.
+
+`python` `scikit-learn` `flask` `nlp` `javascript`
+
+</details>
+
+<details>
+<summary><b>🛒 Amazon ML Challenge</b> — multi-modal price prediction</summary>
+
+> combined text (TF-IDF + embeddings) + image features to predict product prices. built for the actual amazon ML challenge.
+
+`python` `nlp` `computer vision` `regression` `scikit-learn`
+
+</details>
+
+<details>
+<summary><b>🎬 Movie Recommendation Engine</b> — content-based filtering</summary>
+
+> TF-IDF + cosine similarity on movie metadata (overview, genres, tagline). clean, reusable rec function.
+
+`python` `pandas` `scikit-learn`
+
+</details>
+
+<details>
+<summary><b>📊 EDA Projects</b> — making data talk</summary>
+
+> deep dives into insurance, startup funding, and other real datasets. feature relationships, data quality, actionable insights.
+
+`pandas` `numpy` `matplotlib` `plotly`
+
+</details>
 
 ---
 
-## 📌 Currently Expanding Into
+### 📍 currently cooking
 
-- Retrieval-Augmented Generation (RAG) systems  
-- FastAPI-based ML model deployment  
-- LLM workflows and structured outputs  
-- Improving mathematical depth behind ML algorithms  
-
----
-
-## 🎯 Objective
-
-To contribute to impactful machine learning projects where I can apply strong fundamentals, structured thinking, and practical implementation skills.
+- [ ] multi-agent systems with LangGraph (supervisor + worker patterns)
+- [ ] RAG pipelines with LlamaIndex (hybrid retrieval, smart chunking)
+- [ ] FastAPI deployment for ML + LLM models
+- [ ] going deeper on transformer math
+- [ ] LLM structured outputs & function calling
 
 ---
 
-## 🤝 Connect
+### 💭 my approach
 
-📄 Resume  
-https://raw.githubusercontent.com/rohitbedse/rohitbedse/main/rohit_bedse1.docx  
+no black boxes. i understand what i build.  
+clean structure. reproducible code. modular everything.  
+not just calling APIs — actually knowing what's happening under the hood.
 
-🔗 LinkedIn  
-https://www.linkedin.com/in/rohit-bedse-086b86262
+---
+
+### 🎯 looking for
+
+entry-level roles in **ML engineering · NLP · AI systems**  
+where fundamentals matter and there's room to build real things.
+
+---
+
+<div align="center">
+  <sub>made by rohitbedse_</sub>
+</div>
