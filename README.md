@@ -1,129 +1,107 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════╗
-║   hey, i'm rohit bedse 👋             ║
-║   i turn data into decisions          ║
-╚═══════════════════════════════════════╝
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  rohit bedse  ·  ML / AI / Data Science
+  B.Tech CSE (AIML)  ·  2022 – 2026
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
-**ML engineer in the making · NLP nerd · building with LLMs before it was cool**
-
-[![Portfolio](https://img.shields.io/badge/portfolio-live-black?style=flat-square)](https://portfolio-demo-seven-lyart.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohit-bedse-086b86262)
-[![Resume](https://img.shields.io/badge/resume-download-green?style=flat-square)](https://raw.githubusercontent.com/rohitbedse/rohitbedse/main/rohit_bedse1.docx)
+[![Portfolio](https://img.shields.io/badge/🌐_portfolio-live-0A0F1E?style=for-the-badge)](https://portfolio-demo-seven-lyart.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bedse-086b86262)
+[![Resume](https://img.shields.io/badge/Resume-download-22c55e?style=for-the-badge)](https://raw.githubusercontent.com/rohitbedse/rohitbedse/main/rohit_bedse1.docx)
 
 </div>
 
 ---
 
-### 🧠 what i actually do
+## `whoami`
 
-> build end-to-end ML systems. not just notebooks — real pipelines, real deployment, real results.
+> B.Tech CSE (AIML) grad · June 2026 · building ML systems end-to-end, not just running notebooks
 
-from messy raw text → preprocessing → modeling → evaluation → shipping.  
-currently deep in the LLM + agents rabbit hole and not coming out anytime soon.
-
----
-
-### ⚡ tech stack
-
-**the classics**
-```
-python  |  pandas  |  numpy  |  scikit-learn  |  jupyter
-```
-
-**ML that hits**
-```
-LightGBM  |  XGBoost  |  Random Forest  |  Logistic Regression
-TF-IDF (1–3 grams)  |  feature engineering  |  model evaluation
-```
-
-**NLP + transformers**
-```
-BERT  |  Hugging Face  |  text preprocessing
-sentiment analysis  |  similarity systems  |  fine-tuning
-```
-
-**the new wave 🔥**
-```
-LangChain  |  LangGraph  |  LlamaIndex
-AI Agents  |  RAG pipelines  |  prompt engineering
-structured outputs  |  tool calling
-```
-
-**ship it**
-```
-Flask  |  FastAPI  |  Streamlit  |  Git  |  GitHub
-```
+I work across the full ML pipeline — raw data → preprocessing → training → evaluation → deployment. Right now I'm deep in **LLMs, agents, and RAG systems**. Not just wrapping APIs — understanding the internals.
 
 ---
 
-### 🚀 projects i actually built
+## `Projects`
 
-<details>
-<summary><b>💬 YouTube Comment Analyzer</b> — chrome extension + flask backend</summary>
-
-> real-time sentiment analysis on yt comments. multilingual input. positive / neutral / negative classification. visualization layer. the whole thing.
-
-`python` `scikit-learn` `flask` `nlp` `javascript`
-
-</details>
-
-<details>
-<summary><b>🛒 Amazon ML Challenge</b> — multi-modal price prediction</summary>
-
-> combined text (TF-IDF + embeddings) + image features to predict product prices. built for the actual amazon ML challenge.
-
-`python` `nlp` `computer vision` `regression` `scikit-learn`
-
-</details>
-
-<details>
-<summary><b>🎬 Movie Recommendation Engine</b> — content-based filtering</summary>
-
-> TF-IDF + cosine similarity on movie metadata (overview, genres, tagline). clean, reusable rec function.
-
-`python` `pandas` `scikit-learn`
-
-</details>
-
-<details>
-<summary><b>📊 EDA Projects</b> — making data talk</summary>
-
-> deep dives into insurance, startup funding, and other real datasets. feature relationships, data quality, actionable insights.
-
-`pandas` `numpy` `matplotlib` `plotly`
-
-</details>
+| # | Project | What it actually does | Stack |
+|---|---------|----------------------|-------|
+| 🔴 | **YouTube Comment Analyzer** | Chrome extension + Flask backend. Real-time sentiment on YT comments. Multilingual input → positive / neutral / negative with visualizations. | `Python` `scikit-learn` `Flask` `JS` |
+| 🟠 | **Amazon ML Challenge** | Multi-modal price prediction for real Amazon product data. Text (TF-IDF + embeddings) fused with image features → regression. | `Python` `NLP` `CV` `scikit-learn` |
+| 🟡 | **Movie Recommendation Engine** | Content-based filtering using TF-IDF + cosine similarity on metadata (overview, genres, tagline). Clean, reusable rec function. | `Python` `pandas` `scikit-learn` |
+| 🟢 | **EDA Deep Dives** | Insurance, startup funding, and more. Feature relationships, data quality, actionable storytelling from messy data. | `pandas` `numpy` `matplotlib` `plotly` |
 
 ---
 
-### 📍 currently cooking
+## Skills.yaml`
 
-- [ ] multi-agent systems with LangGraph (supervisor + worker patterns)
-- [ ] RAG pipelines with LlamaIndex (hybrid retrieval, smart chunking)
-- [ ] FastAPI deployment for ML + LLM models
-- [ ] going deeper on transformer math
-- [ ] LLM structured outputs & function calling
+```yaml
+languages:
+  - Python (primary)
+
+data_science:
+  - pandas · numpy · scikit-learn · matplotlib · plotly · seaborn
+
+machine_learning:
+  - LightGBM · XGBoost · Random Forest · Logistic Regression
+  - TF-IDF (1–3 grams) · feature engineering · model evaluation · cross-validation
+
+nlp_and_transformers:
+  - BERT · Hugging Face Transformers
+  - sentiment analysis · semantic similarity · fine-tuning
+  - text preprocessing pipelines
+
+llm_and_agents:                            # 🔥 active focus
+  - LangChain · LangGraph · LlamaIndex
+  - RAG pipelines · AI Agents · prompt engineering
+  - structured outputs · tool calling · function calling
+
+deployment:
+  - Flask · FastAPI · Streamlit · Git · GitHub
+```
 
 ---
 
-### 💭 my approach
+## `Currently_building/`
 
-no black boxes. i understand what i build.  
-clean structure. reproducible code. modular everything.  
-not just calling APIs — actually knowing what's happening under the hood.
+```
+drwxr-xr-x  multi-agent systems      → LangGraph supervisor + worker patterns
+drwxr-xr-x  RAG pipelines            → LlamaIndex, hybrid retrieval, smart chunking  
+drwxr-xr-x  FastAPI deployment       → serving ML + LLM models in production
+drwxr-xr-x  transformer internals    → attention math, positional encoding, from scratch
+drwxr-xr-x  structured LLM outputs   → function calling, JSON mode, schema enforcement
+```
 
 ---
 
-### 🎯 looking for
+## `Philosophy.md`
 
-entry-level roles in **ML engineering · NLP · AI systems**  
-where fundamentals matter and there's room to build real things.
+```
+no black boxes.
+clean, modular, reproducible code.
+i understand what i build — not just what it outputs.
+end-to-end ownership: from dirty data to shipped model.
+```
+
+---
+
+## `./open_to_work.sh`
+
+Looking for **entry-level / fresher roles** in:
+
+```
+AI/ML Engineering    ·    NLP Engineering    ·    Data Science
+```
+
+Roles where fundamentals are valued, pipelines are built from scratch, and there's room to actually ship things.
 
 ---
 
 <div align="center">
-  <sub>made by rohitbedse_</sub>
+
+**B.Tech CSE (AIML) · 2022 – 2026 · Rohit Bedse**
+
+`python` `ml` `nlp` `llms` `rag` `agents` `data-science`
+
 </div>
