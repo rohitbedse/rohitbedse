@@ -7,7 +7,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
-[![Portfolio](https://img.shields.io/badge/🌐_portfolio-live-0A0F1E?style=for-the-badge)](https://portfolio-demo-seven-lyart.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_portfolio-live-0A0F1E?style=for-the-badge)](https://rohitbedse.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bedse-086b86262)
 [![Resume](https://img.shields.io/badge/Resume-download-22c55e?style=for-the-badge)](https://raw.githubusercontent.com/rohitbedse/rohitbedse/main/rohit_bedse1.docx)
 
