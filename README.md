@@ -66,11 +66,11 @@ deployment:
 ## `Currently_building/`
 
 ```
-drwxr-xr-x  multi-agent systems      → LangGraph supervisor + worker patterns
-drwxr-xr-x  RAG pipelines            → LlamaIndex, hybrid retrieval, smart chunking  
-drwxr-xr-x  FastAPI deployment       → serving ML + LLM models in production
-drwxr-xr-x  transformer internals    → attention math, positional encoding, from scratch
-drwxr-xr-x  structured LLM outputs   → function calling, JSON mode, schema enforcement
+multi-agent systems      → LangGraph supervisor + worker patterns
+RAG pipelines            → LlamaIndex, hybrid retrieval, smart chunking  
+FastAPI deployment       → serving ML + LLM models in production
+transformer internals    → attention math, positional encoding, from scratch
+structured LLM outputs   → function calling, JSON mode, schema enforcement
 ```
 
 ---
